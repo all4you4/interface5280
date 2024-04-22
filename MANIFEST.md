@@ -1,0 +1,13 @@
+* CHANGES.md
+* LICENSE
+* MANIFEST.md
+* README.md
+* Rakefile
+* interface.gemspec
+* certs/djberg96_pub.pem
+* examples/example_instance.rb
+* examples/example_interface.rb
+* examples/example_sub.rb
+* examples/example_unrequire.rb
+* lib/interface.rb
+* spec/interface_spec.rb
